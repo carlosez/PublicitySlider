@@ -72,7 +72,7 @@ $counter=0;
 
 </style> 
 <div class="container" style="width: 730px;">
-  <h2>Pantallas Led Moviles</h2><span style="float: right;margin-top: -30px;"><a href="addnew.php">Add More Images</a></span>
+  <h2>Pantallas Led M&oacute;viles</h2><span style="float: right;margin-top: -30px;"><a href="addnew.php">A&ntilde;adir Im&aacute;genes</a></span>
       <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
         <!-- Indicators -->
         <ol class="carousel-indicators">
