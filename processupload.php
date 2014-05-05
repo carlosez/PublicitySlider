@@ -10,7 +10,7 @@ if(isset($_POST))
     $allowedExts = array("jpg", "jpeg", "gif", "png");
 
     $RandomNum   = rand(0, 9999999999);
-
+    
     $ImageName      = str_replace(' ','-',strtolower($_FILES['ImageFile']['name']));
     $ImageType      = $_FILES['ImageFile']['type']; //"image/png", image/jpeg etc.
 
@@ -24,7 +24,7 @@ if(isset($_POST))
 
     //Create new image name (with random number added).
     $NewImageName = $ImageName.'-'.$RandomNum.'.'.$ImageExt;
-
+    
     move_uploaded_file($_FILES['ImageFile']['tmp_name'], "$Destination/$NewImageName");
     echo '<form method="post" action="addimage.php">
     <table width="100%" border="0" cellpadding="4" cellspacing="0">
@@ -42,4 +42,3 @@ if(isset($_POST))
     </tr>
     </table></form>';
 }
-?>
