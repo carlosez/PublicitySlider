@@ -45,7 +45,7 @@ $counter=0;
   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
   <head>
-    <title>Our Work</title>
+    <title> Our Work</title>
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
     <style type="text/css">
 
@@ -54,7 +54,7 @@ $counter=0;
     </style>
   </head>
   <body onload="changePagination('0','first')">
-    <h2>Our Work. | <a href="http://app.ctorres.net/">More Demos</a></h2>
+    <h2>&nbsp;&nbsp;&nbsp; Our Work | <a href="http://app.ctorres.net/">More Demos</a></h2>
 
 <link rel="stylesheet" href="css/bootstrap.min.css" />
 <script type="text/javascript" src="js/jquery-1.8.0.min.js"></script> 
