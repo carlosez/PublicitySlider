@@ -45,7 +45,7 @@ $counter=0;
   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
   <head>
-    <title>Dynamic image slider using twitter bootstrap & PHP with MySQL | PGPGang.com</title>
+    <title>Home Page, list Our serices</title>
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
     <style type="text/css">
 
@@ -71,7 +71,7 @@ $counter=0;
 
 </style> 
 <div class="container" style="width: 730px;">
-      <h2>Dynamic Image Slider</h2><span style="float: right;margin-top: -30px;"><a href="addnew.php">Add More Images</a></span>
+      <h2>Our Work </h2><span style="float: right;margin-top: -30px;"><a href="addnew.php">Add More Images</a></span>
       <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
         <!-- Indicators -->
         <ol class="carousel-indicators">
