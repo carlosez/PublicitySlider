@@ -54,8 +54,7 @@ $counter=0;
     </style>
   </head>
   <body onload="changePagination('0','first')">
-    <h2>Dynamic image slider using twitter bootstrap & PHP with MySQL Example.&nbsp;&nbsp;&nbsp;=> <a href="http://www.phpgang.com/">Home</a> | <a href="http://demo.phpgang.com/">More Demos</a></h2>
-
+    <h2>Home Page</h2>
 <link rel="stylesheet" href="css/bootstrap.min.css" />
 <script type="text/javascript" src="js/jquery-1.8.0.min.js"></script> 
 <script src="js/bootstrap.min.js"></script>
