@@ -54,7 +54,7 @@ $counter=0;
     </style>
   </head>
   <body onload="changePagination('0','first')">
-    <h2>&nbsp;&nbsp;&nbsp; Our Work | <a href="http://app.ctorres.net/">More Demos</a></h2>
+    <h2>&nbsp;&nbsp;&nbsp; Nuestro Trabajo | <a href="http://app.ctorres.net/">M&aacute;s Demos</a></h2>
 
 <link rel="stylesheet" href="css/bootstrap.min.css" />
 <script type="text/javascript" src="js/jquery-1.8.0.min.js"></script> 
